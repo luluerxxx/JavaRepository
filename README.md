@@ -1,2 +1,4 @@
 # JavaRepository
-一些用java写的大作业（1）
+
+用Java写的一个通讯录
+是用的javafx实现界面以及功能
